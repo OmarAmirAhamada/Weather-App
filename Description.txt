@@ -1,0 +1,6 @@
+This is a weather App:
+
+* You just need to enter the name of the city you would like to have the weather informations about, and click on the search icon.
+And infos like temperature , humidity , wind speed etc.. will automatically be displayed.
+
+IMPORTANT : note that these data are being fetched from a live api , therefore a connection to the internet is required for the app to work.
